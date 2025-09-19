@@ -29,18 +29,23 @@ Que añada la palabra q## 🚀 Cómo ejecutar
 ---
 
 ## 🌾 Autora del Proyecto
-
 ---
 
-## 🌾 Autor del Proyecto
+## ✍️ Autor del Proyecto
 
-<details>
-  <summary><b>🦜 Firma del Autor</b></summary>
+> [!IMPORTANT]  
+> *Este proyecto es la versión `BETA` de Luna Bot. Estoy trabajando para ofrecer una mejor versión de Luna beta.*
 
-  <p align="center">
-    <a href="https://github.com/cruz">
-      <img src="https://github.com/cruz.png" width="120"/>
-    </a>
-  </p>
+<p align="center">
+  <a href="https://github.com/cruzancelis-jpg">
+    <img src="https://raw.githubusercontent.com/cruzancelis-jpg/MIS-PRUEBAS-DE-JAVASCRIPT-/main/IMG/IMG_20230926_064624.png" width="120" alt="Firma de Juan"/>
+  </a>
+</p>
 
-</details>
+<p align="center">
+  <strong>👤 Nombre:</strong> Juan  
+  <br>
+  <strong>🌐 GitHub:</strong> <a href="https://github.com/cruzancelis-jpg">github.com/cruzancelis-jpg</a>
+</p>
+
+---
