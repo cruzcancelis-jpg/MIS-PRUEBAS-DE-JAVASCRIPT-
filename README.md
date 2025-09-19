@@ -23,8 +23,7 @@ Que añada la palabra q## 🚀 Cómo ejecutar
 
 1. Descarga el script .sh en tu dispositivo.
 2. Abre tu terminal o MT Manager.
-3. Ejecuta con: sh nombre-del-script.shue te dije 
-- 
+3. Ejecuta con el nombre del archivo y ya
 
 --- 
 
