@@ -15,10 +15,6 @@
 
 ---
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Bot%20Dominicano%20con%20Flow-%23bacano-purple?style=for-the-badge&logo=whatsapp"></a>
-</p>
-
 ---
 
 ## 🪻 Características
