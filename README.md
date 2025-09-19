@@ -27,3 +27,4 @@ Apasionado por el código con estilo y la cultura RD 🇩🇴
 
 Este proyecto es solo para JavaScript.  
 No se aceptan otros lenguajes... ¡por ahora! 😎
+
