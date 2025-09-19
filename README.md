@@ -5,7 +5,7 @@ RED='\033[0;31m'
 BOLD='\033[1m'
 RESET='\033[0m'
 
-# 🚀 Intro visual
+# 🚀 Intro visual en rojo
 echo -e "${RED}═══════════════════════════════════════${RESET}"
 echo -e "${BOLD}${RED}🚀 Bienvenido al mundo de Juan 🇩🇴${RESET}"
 echo -e "${RED}═══════════════════════════════════════${RESET}"
