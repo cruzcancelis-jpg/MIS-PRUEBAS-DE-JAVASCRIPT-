@@ -1,8 +1,20 @@
 <h1 align="center">🌙 Juan (BETA)</h1>
 
+<h1 align="center">🚀 Juan (BETA)</h1>
+
 <p align="center">
-  <img src="https://files.catbox.moe/if757e.jpg" alt="Luna Bot" width="200"/>
+  <img src="https://i.postimg.cc/HxtPL93d/7e22eadc20a57ecaf4ebc41e420866ca4.webp" alt="Luna Bot" width="200"/>
 </p>
+
+<p align="center">
+  <a href="https://github.com/cruzancelis-jpg">
+    <img src="https://img.shields.io/badge/Bot%20Dominicano%20con%20Flow-%23bacano-purple?style=for-the-badge&logo=whatsapp" alt="Badge RD"/>
+  </a>
+</p>
+
+---
+
+---
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Bot%20Dominicano%20con%20Flow-%23bacano-purple?style=for-the-badge&logo=whatsapp"></a>
