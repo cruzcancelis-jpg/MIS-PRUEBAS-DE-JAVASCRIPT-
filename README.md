@@ -38,7 +38,7 @@ Que añada la palabra q## 🚀 Cómo ejecutar
 > **Este proyecto es la versión `BETA` de Luna Bot. Estoy trabajando para ofrecerte una mejor versión de Luna beta.**
 
 <p align="center">
-  <a href="https://github.com/ittschinitaaa">
+  <a href="https://github.com/cruzancelis-jpg/MIS-PRUEBAS-DE-JAVASCRIPT-/issues.png?size=100">
     <img src="https://github.com/cruzancelis-jpg/MIS-PRUEBAS-DE-JAVASCRIPT-/issues.png?size=100" alt="China" width="120" style="border-radius: 50%;"/>
   </a>
 </p>
