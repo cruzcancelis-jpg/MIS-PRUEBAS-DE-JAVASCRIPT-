@@ -17,7 +17,7 @@
 
 ---
 
-## 🪻 Características
+## 🌟 Características
 
 Que añada la palabra q## 🚀 Cómo ejecutar
 
