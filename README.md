@@ -1,6 +1,5 @@
 <h1 align="center">🌙 Juan (BETA)</h1>
 
-<h1 align="center">🚀 Juan (BETA)</h1>
 
 <p align="center">
   <img src="https://i.postimg.cc/HxtPL93d/7e22eadc20a57ecaf4ebc41e420866ca4.webp" alt="Luna Bot" width="200"/>
