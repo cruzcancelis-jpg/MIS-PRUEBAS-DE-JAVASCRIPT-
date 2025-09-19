@@ -1,5 +1,3 @@
-# MIS-PRUEBAS-DE-JAVASCRIPT-
-Subiré solo java script 
 
 # 🧪 MIS PRUEBAS DE JAVASCRIPT 🇩🇴
 
