@@ -1,36 +1,46 @@
-#!/system/bin/sh
+<h1 align="center">🌙 Juan (BETA)</h1>
 
-# 🎨 Colores
-RED='\033[0;31m'
-BOLD='\033[1m'
-RESET='\033[0m'
+<p align="center">
+  <img src="https://files.catbox.moe/if757e.jpg" alt="Luna Bot" width="200"/>
+</p>
 
-# 🚀 Intro visual en rojo
-echo -e "${RED}═══════════════════════════════════════${RESET}"
-echo -e "${BOLD}${RED}🚀 Bienvenido al mundo de Juan 🇩🇴${RESET}"
-echo -e "${RED}═══════════════════════════════════════${RESET}"
-echo -e "${RED}¡Ey, tigre! Estás entrando en un mundo de scripts, arte ASCII y estilo de vida hacker con swing caribeño.${RESET}"
-echo -e "${RED}───────────────────────────────────────${RESET}"
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Bot%20Dominicano%20con%20Flow-%23bacano-purple?style=for-the-badge&logo=whatsapp"></a>
+</p>
 
-# 🧪 Sección de contenido
-echo -e "${BOLD}${RED}🧪 ¿Qué hay aquí?${RESET}"
-echo -e "${RED}- Scripts en JavaScript y Bash con sabor dominicano"
-echo -e "- Juegos, preguntas, acertijos y validaciones"
-echo -e "- Arte ASCII hecho a mano con cariño"
-echo -e "- Frases que hablan como tú y como yo, con flow${RESET}"
-echo -e "${RED}───────────────────────────────────────${RESET}"
+---
 
-# 📂 Cómo ejecutar
-echo -e "${BOLD}${RED}📂 Cómo ejecutar:${RESET}"
-echo -e "${RED}  1️⃣ Descarga el script .sh en tu dispositivo"
-echo -e "  2️⃣ Abre tu terminal o MT Manager"
-echo -e "  3️⃣ Ejecuta con: sh nombre-del-script.sh${RESET}"
-echo -e "${RED}───────────────────────────────────────${RESET}"
-echo -e "${BOLD}${RED}💡 Consejo:${RESET} Si quieres que corra en segundo plano, usa:"
-echo -e "${RED}sh nombre-del-script.sh &${RESET}"
-echo -e "${RED}───────────────────────────────────────${RESET}"
+## 🪻 Características
 
-# 👨‍🎨 Autor
-echo -e "${BOLD}${RED}👨‍🎨 Autor:${RESET} Juan 🇩🇴 — San Pedro de Macorís"
-echo -e "${RED}“Lo bacano no se copia, se crea.”${RESET}"
-echo -e "${RED}═══════════════════════════════════════${RESET}"
+Que añada la palabra q## 🚀 Cómo ejecutar
+
+1. Descarga el script .sh en tu dispositivo.
+2. Abre tu terminal o MT Manager.
+3. Ejecuta con: sh nombre-del-script.shue te dije 
+- 
+
+--- 
+
+---
+
+### 🖼 5. Firma visual del autor
+
+```markdown
+---
+
+## 🌾 Autora del Proyecto
+
+---
+
+## 🌾 Autor del Proyecto
+
+> [!IMPORTANT]  
+> **Este proyecto es la versión `BETA` de Luna Bot. Estoy trabajando para ofrecerte una mejor versión de Luna beta.**
+
+<p align="center">
+  <a href="https://github.com/ittschinitaaa">
+    <img src="https://github.com/cruzancelis-jpg/MIS-PRUEBAS-DE-JAVASCRIPT-/issues.png?size=100" alt="China" width="120" style="border-radius: 50%;"/>
+  </a>
+</p>
+
+---
