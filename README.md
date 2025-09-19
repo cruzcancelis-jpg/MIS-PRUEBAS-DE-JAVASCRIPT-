@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://chat.whatsapp.com/E3nYM47DFVX65gyDswvUbb?mode=ems_copy_t" target="_blank">
-    <img src="https://img.shields.io/badge/BOT%20DOMINICANO%20CON%20FLOW-%23BACANO-purple?style=for-the-badge&logo=whatsapp" alt="Grupo RD"/>
-  </a>
+    <img src="https://img.shields.io/badge/MI%20GRUPO DE STICKERS%20CON%20FLOW-%23BACANO-purple?style=for-the-badge&logo=whatsapp" alt="Grupo RD"/>
+  </P>
 </p>
 
 ---
