@@ -1,18 +1,30 @@
-Ese `---` crea una línea separadora que organiza el contenido como si fuera una página de instrucciones.
+#!/system/bin/sh
 
----
+# 🎨 Colores
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+CYAN='\033[0;36m'
+BOLD='\033[1m'
+RESET='\033[0m'
 
-### 🧠 3. **Narrativa con flow dominicano**
-
-Tú le metes frases como “¡Hecho con cariño por Juan 🇩🇴!” o “Lo bacano no se copia, se crea.”  
-Eso le da identidad. No es solo código, es **tu marca**.
-
----
-
-### 🧪 4. **Inspiración visual**
-
-Según [esta guía sobre efectos en Bash](https://hijosdeinit.gitlab.io/howto_colores_y_efectos_en_scripts_bash/), puedes usar colores, negritas y subrayados en terminal con secuencias como:
-
-```bash
-echo -e "\033[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://ovejeando.com/interfaces-cuadros-dialogo-script-bash-linux-ubuntu-debian/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1")[1mTexto en negrita\033[0m"
-echo -e "\033[31mTexto rojo\033[0m"
+# 🚀 Mensaje con diseño
+echo -e "${CYAN}═══════════════════════════════════════${RESET}"
+echo -e "${BOLD}${YELLOW}🚀 Bienvenido al mundo de Juan 🇩🇴${RESET}"
+echo -e "${CYAN}═══════════════════════════════════════${RESET}"
+echo -e "${GREEN}¡Ey, tigre!${RESET} Si estás viendo esto, es porque entraste a un proyecto con flow, código con arte, y estilo dominicano del bueno."
+echo -e "${CYAN}───────────────────────────────────────${RESET}"
+echo -e "${BOLD}🧪 ¿Qué hay aquí?${RESET}"
+echo -e "  - Scripts en JavaScript y Bash con sabor caribeño"
+echo -e "  - Juegos, preguntas, animaciones y validaciones"
+echo -e "  - Arte ASCII hecho a mano por mí"
+echo -e "  - Frases que hablan como yo: directo, bacano y con swing"
+echo -e "${CYAN}───────────────────────────────────────${RESET}"
+echo -e "${BOLD}📂 Cómo ejecutar:${RESET}"
+echo -e "  1️⃣ Descarga el script .sh en tu dispositivo"
+echo -e "  2️⃣ Abre tu terminal o MT Manager"
+echo -e "  3️⃣ Ejecuta con: ${YELLOW}sh nombre-del-script.sh${RESET}"
+echo -e "${CYAN}───────────────────────────────────────${RESET}"
+echo -e "${BOLD}👨‍🎨 Autor:${RESET} Juan 🇩🇴 — San Pedro de Macorís"
+echo -e "${RED}“Lo bacano no se copia, se crea.”${RESET}"
+echo -e "${CYAN}═══════════════════════════════════════${RESET}"
