@@ -29,7 +29,7 @@ Que añada la palabra q## 🚀 Cómo ejecutar
 
 ---
 
-### 🖼 5. Firma visual del autor
+### 
 
 ```markdown
 ---
