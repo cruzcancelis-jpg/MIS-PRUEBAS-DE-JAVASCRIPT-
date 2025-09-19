@@ -1,13 +1,13 @@
-<h1 align="center">🌙 Juan El Crack </h1>
 
+<h1 align="center">🌙 Juan El Crack (BETA)</h1>
 
 <p align="center">
-  <img src="https://i.postimg.cc/HxtPL93d/7e22eadc20a57ecaf4ebc41e420866ca4.webp" alt="Luna Bot" width="200"/>
+  <img src="https://i.postimg.cc/HxtPL93d/7e22eadc20a57ecaf4ebc41e420866ca4.webp" width="200" alt="Firma de Juan"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/cruzancelis-jpg">
-    <img src="https://img.shields.io/badge/Bot%20Dominicano%20con%20Flow-%23bacano-purple?style=for-the-badge&logo=whatsapp" alt="Badge RD"/>
+  <a href="https://chat.whatsapp.com/E3nYM47DFVX65gyDswvUbb?mode=ems_copy_t" target="_blank">
+    <img src="https://img.shields.io/badge/BOT%20DOMINICANO%20CON%20FLOW-%23BACANO-purple?style=for-the-badge&logo=whatsapp" alt="Grupo RD"/>
   </a>
 </p>
 
