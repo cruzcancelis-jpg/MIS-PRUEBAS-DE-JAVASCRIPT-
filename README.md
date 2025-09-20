@@ -22,7 +22,7 @@
 Que añada la palabra q## 🚀 Cómo ejecutar
 
 1. Descarga el script .sh en tu dispositivo.
-2. Abre tu terminal o MT Manager.
+2. Abre tu terminal o MT Manager.decarga por aquí sin virus:https://mt-manager.net/
 3. Ejecuta con el nombre del archivo y ya
 
 --- 
