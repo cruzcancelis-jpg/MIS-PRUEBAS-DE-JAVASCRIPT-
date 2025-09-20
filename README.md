@@ -25,6 +25,11 @@ Que añada la palabra q## 🚀 Cómo ejecutar
 2. Abre tu terminal o MT Manager.decarga por aquí sin virus:https://mt-manager.net/
 3. Ejecuta con el nombre del archivo y ya
 
+<p align="center">
+  <a href="https://github.com/cruzancelis-jpg" target="_blank">
+    <img src="https://i.postimg.cc/HxtPL93d/7e22eadc20a57ecaf4ebc41e420866ca4.webp" width="200" alt="Firma de Juan"/>
+  </a>
+</p>
 --- 
 
 ---
