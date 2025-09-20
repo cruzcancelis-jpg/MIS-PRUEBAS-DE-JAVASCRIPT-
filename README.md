@@ -27,7 +27,7 @@ Que añada la palabra q## 🚀 Cómo ejecutar
 
 <p align="center">
   <a href="https://github.com/cruzancelis-jpg" target="_blank">
-    <img src="https://i.postimg.cc/HxtPL93d/7e22eadc20a57ecaf4ebc41e420866ca4.webp" width="200" alt="Firma de Juan"/>
+
   </a>
 </p>
 --- 
