@@ -49,9 +49,7 @@ Que añada la palabra q## 🚀 Cómo ejecutar
 
 <p align="center">
   <a href="https://github.com/cruzancelis-jpg">
-    <img src="https://raw.githubusercontent.com/cruzancelis-jpg/MIS-PRUEBAS-DE-JAVASCRIPT-/main/IMG/IMG_20230926_064624.png" width="120" alt="Firma de Juan"/>
-  </a>
-</p>
+
 
 <p align="center">
   <strong>👤 Nombre:</strong> Juan  
