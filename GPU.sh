@@ -1,0 +1,25 @@
+#!/system/bin/sh
+
+echo "🌟 Información técnica del dispositivo"
+echo "───────────────────────────────────────────────"
+
+echo "📱 Modelo: $(getprop ro.product.model)"
+echo "🏭 Fabricante: $(getprop ro.product.manufacturer)"
+echo "🕹️ Android: $(getprop ro.build.version.release)"
+echo "🧠 CPU: $(grep 'Hardware' /proc/cpuinfo | cut -d ':' -f2 | xargs)"
+echo "🎮 GPU: $(dumpsys | grep -i 'gpu' | head -n 1)"
+echo "🖼️ Resolución: $(wm size | cut -d ':' -f2 | xargs)"
+echo "📐 Densidad: $(wm density | cut -d ':' -f2 | xargs)"
+echo "🔋 Batería:"
+echo "Nivel: $(dumpsys battery | grep level | cut -d ':' -f2 | xargs)"
+echo "Estado: $(dumpsys battery | grep status | cut -d ':' -f2 | xargs)"
+echo "Temperatura: $(dumpsys battery | grep temperature | cut -d ':' -f2 | xargs)°C"
+echo "Salud: $(dumpsys battery | grep health | cut -d ':' -f2 | xargs)"
+echo "⏱️ Tiempo encendido: $(uptime | awk '{print $3}' | sed 's/,//')"
+echo "🌐 Idioma del sistema: $(getprop persist.sys.locale)"
+echo "📛 Nombre del dispositivo: $(getprop net.hostname)"
+
+echo "───────────────────────────────────────────────"
+echo "📘 Este script solo muestra información técnica."
+echo "🔒 No modifica nada. 100% seguro y educativo."
+echo "🎨 Hecho por Juan con estilo dominicano."
