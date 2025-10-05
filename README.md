@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cruzcancelis-jpg/MIS-PRUEBAS-DE-JAVASCRIPT-">Repositorio: MIS-PRUEBAS-DE-JAVASCRIPT-</a>
+  <a href="https://github.com/cruzcancelis-jpg/MIS-PRUEBAS-DE-JAVASCRIPT-">-</a>
 </p>
