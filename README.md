@@ -10,7 +10,7 @@
   <a href="https://github.com/cruzcancelis-jpg/MIS-PRUEBAS-DE-JAVASCRIPT-"></a>
 </p>
 
-<h1><span style="color:white;">hola este es mi respositorio</span></h1>
+<h1><span style="color:white;">Holaaa Bro</span></h1>
 <div style="background-color:black; padding:10px;">
   <div style="background-color:black; padding:10px;">
   <p style="color:white; font-size:18px; font-weight:bold;">
