@@ -11,6 +11,8 @@
 </p>
 
 <h1><span style="color:white;">características</span></h1>
-<p style="color:white; font-size:18px; font-weight:bold;">
-  🔥 ¡Bienvenido a mis pruebas de Javascript!
-</p>
+<div style="background-color:black; padding:10px;">
+  <p style="color:white; font-size:18px; font-weight:bold;">
+    ¡Bienvenido a mis pruebas de Javascript!
+  </p>
+</div>
