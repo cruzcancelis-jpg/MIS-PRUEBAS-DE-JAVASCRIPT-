@@ -10,7 +10,7 @@
   <a href="https://github.com/cruzcancelis-jpg/MIS-PRUEBAS-DE-JAVASCRIPT-"></a>
 </p>
 
-<h1
-características 
+<p align="center">
+<a cacterísticas 
 Solo mis prueba de Javascript 
 y solo subire cosas de prueba 
