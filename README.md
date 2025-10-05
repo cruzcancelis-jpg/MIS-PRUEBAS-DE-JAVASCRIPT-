@@ -10,8 +10,9 @@
   <a href="https://github.com/cruzcancelis-jpg/MIS-PRUEBAS-DE-JAVASCRIPT-"></a>
 </p>
 
-<h1><span style="color:white;">características</span></h1>
+<h1><span style="color:white;">HOLA ESTE ES MI REPOSITORIO JAVA</span></h1>
 <div style="background-color:black; padding:10px;">
+  <div style="background-color:black; padding:10px;">
   <p style="color:white; font-size:18px; font-weight:bold;">
     ¡Bienvenido a mis pruebas de Javascript!
   </p>
